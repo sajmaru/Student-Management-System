@@ -2,7 +2,7 @@
 
 This is a simple web-based software written in PHP and JavaScript. This was specifically written for school or educational organization.
 
-**Feature of Student Management System**
+**Feature of Student Management System** <br />
 *Add Student Information <br />
 *Admit Student In Multiple Program <br />
 *Student Payment System <br />
